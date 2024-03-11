@@ -8,7 +8,8 @@ Your can access the images of the application by entering the [**_image file_**.
 - core data
 
 ---
-extras
+### extras
+
 I used The movie database and google developer console. I used Youtube Data API for trailers.
 
 
