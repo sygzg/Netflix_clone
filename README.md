@@ -4,7 +4,7 @@ Your can access the images of the application by entering the [**_image file_**.
 
 ### necessary for app 
 - cocoa touch
-- [sdWebImage](https://github.com/SDWebImage/SDWebImage) (open xcode -> file -> add package -> Search and enter package url (search bar) -> paste the link  your can install it this way )
+- [sdWebImage](https://github.com/SDWebImage/SDWebImage) (open xcode -> file -> add package -> Search and enter package url (search bar) -> paste the link) _(your can install it this way)_
 - cora data
 
 
