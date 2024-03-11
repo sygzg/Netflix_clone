@@ -1,6 +1,6 @@
 ### 1. necessary for app 
 - cocoa touch
-- sdWebImage (open xcode -> file -> add package -> Search and enter package url (search bar) -> [https://github.com/SDWebImage/SDWebImage] your can install it this way )
+- [sdWebImage](https://github.com/SDWebImage/SDWebImage) (open xcode -> file -> add package -> Search and enter package url (search bar) -> paste the link  your can install it this way )
 - cora data
 
 
