@@ -4,7 +4,7 @@
 - cora data
 
 
-[Your can access the images of the application by entering the **_image file_**.](https://github.com/sygzg/Netflix_clone/tree/main/image)
+Your can access the images of the application by entering the [**_image file_**.](https://github.com/sygzg/Netflix_clone/tree/main/image)
 
 
 
